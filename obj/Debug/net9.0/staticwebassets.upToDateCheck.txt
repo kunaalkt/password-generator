@@ -1,0 +1,6 @@
+wwwroot\style.css
+wwwroot\index.html
+wwwroot\script.js
+C:\Users\kunaa\OneDrive\Desktop\New folder\password-generator\wwwroot\style.css
+C:\Users\kunaa\OneDrive\Desktop\New folder\password-generator\wwwroot\index.html
+C:\Users\kunaa\OneDrive\Desktop\New folder\password-generator\wwwroot\script.js
